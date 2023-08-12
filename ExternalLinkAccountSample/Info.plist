@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SKExternalLinkAccount</key>
+	<dict>
+		<key>*</key>
+		<string>https://developerinsider.co/#/portal/signin</string>
+		<key>in</key>
+		<string>https://developerinsider.in/#/portal/signin/</string>
+		<key>jp</key>
+		<string>https://developerinsider.co/#/portal/signin/jp</string>
+	</dict>
+</dict>
+</plist>
